@@ -31,3 +31,22 @@ Lors de l’utilisation du programme différentes saisies vous est demandé,
 notamment pour votre nom d’utilisateur*, nom de groupe* 
   <br> ou encore le nom du dossier*.
   </p>
+  <br>
+  <br>
+  
+  <div align="center">
+  <img src="img1.png" alt="img1" class="center">
+</div>
+  <br>
+  En cas d’erreur l’instruction vous sera redemandée
+   <br>
+   <br>
+   <br>
+   <div align="center">
+  <img src="img2.png" alt="img1" class="center">
+</div>
+<p>
+  * Le nom d’utilisateur (user) sert de point de mappage pour vos futurs utilisateurs virtuels, ce nom sera associé au groupe demandé par la suite,
+enfin le dossier servira de conteneur ou emplacement pour tous vos utilisateurs virtuels crée par l’intermédiaire de ce programme.
+</p>
+  
